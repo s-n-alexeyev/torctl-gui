@@ -3,6 +3,6 @@
 
 - Скрипт является графической оболочкой для torctl/tor.
 - Имеется перевод на многие языки.
-- Зависимости: "torctl" "tor" "yad" "macchanger" "faillock" "notify-send" "systemctl".
+- Зависимости: torctl, tor, yad, macchanger, faillock, notify-send, systemctl.
 
 ![Скриншот работы](/img/example.png)
