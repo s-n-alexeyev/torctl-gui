@@ -1,4 +1,4 @@
-# torctl-gui - froned for torctl
+# torctl-gui
 В основе работы лежит скрипт [torctl](https://github.com/BlackArch/torctl)
 
 - Скрипт является графической оболочкой для torctl/tor.
