@@ -1,8 +1,8 @@
 # torctl-gui
-В основе работы лежит скрипт [torctl](https://github.com/BlackArch/torctl)
+The operation is based on the [torctl](https://github.com/BlackArch/torctl) script.
 
-- Скрипт является графической оболочкой для torctl/tor.
-- Имеется перевод на многие языки.
-- Зависимости: torctl, tor, yad, macchanger, faillock, notify-send, systemctl.
+- The script serves as a graphical interface for torctl/tor.
+- It has translations available in many languages.
+- Dependencies: torctl, tor, yad, macchanger, faillock, notify-send, systemctl.
 
-![Скриншот работы](/img/example.png)
+![screenshot](/img/example.png)
