@@ -3,6 +3,6 @@ The operation is based on the [torctl](https://github.com/BlackArch/torctl) scri
 
 - The script serves as a graphical interface for torctl/tor.
 - It has translations available in many languages.
-- Dependencies: torctl, tor, yad, macchanger, faillock, notify-send, systemctl.
+- Dependencies: torctl, tor, yad, macchanger, ip, faillock, notify-send, systemctl.
 
 ![screenshot](/img/example.png)
