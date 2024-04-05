@@ -545,7 +545,7 @@ done
 
 # Function to check dependencies
 check_dependencies() {
-    local dependencies=("torctl" "tor" "yad" "macchanger" "faillock" "notify-send" "systemctl" "sudo")
+    local dependencies=("torctl" "tor" "yad" "macchanger" "ip" "faillock" "notify-send" "systemctl" "sudo")
     local missing_dependencies=()
 
     for dep in "${dependencies[@]}"; do
